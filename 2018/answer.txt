@@ -1,0 +1,1 @@
+There are 250 double appearances and 205 triple appearances. This produces a checksum of 250 * 205 = 51250
